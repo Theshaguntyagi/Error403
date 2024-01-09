@@ -37,8 +37,7 @@ This page can be used as an error page in your web applications. Simply include 
 
 Fonts:Squada One
       Montserrat
-Author: ![SHAGUN TYAGI]([https://www.instagram.com/theshaguntyagi?utm_source=qr])
 
-
+Author: Shagun Tyagi
 
 Feel free to contribute or provide feedback!
